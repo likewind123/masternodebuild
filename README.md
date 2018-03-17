@@ -1,0 +1,2 @@
+# masternodebuild
+build masternode sh
